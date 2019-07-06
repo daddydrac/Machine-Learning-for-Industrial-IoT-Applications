@@ -19,10 +19,11 @@ For industrial organizations understanding how to to digitize industrial assets,
 
 
 
-<p style="margin:30px">
-    Data Provided by the really, really smart folks at NASA fot this example:
+<div style="margin:30px">
+    <p>Data Provided by the really, really smart folks at NASA for this example:</p>
+    
     <img style="display:inline" width=15% src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" alt="NASA" />
-</p>
+</div>
 
 Most data that comes from IoT sensors is not time series based, and can oly be time-series by the way you store data. 
 This solution doesnt require that and built-in functionality handles time varying data well. 
