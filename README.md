@@ -1,7 +1,7 @@
 ## Machine Learning for Industrial IoT Applications
-#### Predict how long a part will work before performance degrades
+### Predict how long a part will work before performance degrades
 
-Perect for 5G cell phone towers, mining, aerospace, large/heavy equipment, farming, autonomous vehicles and even data centers.
+#### Many industiral applications, such as: 5G cell phone towers, mining, aerospace, large/heavy equipment, farming, autonomous vehicles and even data centers.
 
 By combining machine-to-machine communication with industrial big data analytics, IIoT is driving unprecedented levels of efficiency, productivity, and performance. And as a result, industrial companies in original equipment manufacturing, chemicals, food and beverage, automotive, steel, and many other industries are experiencing transformative operational and financial benefits.
 
