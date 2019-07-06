@@ -38,7 +38,7 @@ For industrial organizations understanding how to to digitize industrial assets,
 
 * GE reports that customers can increase reliability from 93% to 99.49% in less than two years, reduce reactive maintenance by 40% in less than one year—contributing to significant maintenance cost savings, and save $360K by predicting a power outage in a gas plant.
 
-* According to Gartner, ““By 2021, half of large industrial companies will use digital twins, resulting in those organizations gaining a 10% improvement in effectives.”
+* According to Gartner, ““By 2021, half of large industrial companies will use ML on IoT, resulting in those organizations gaining a greater than 10% improvement in effectives.”
 
 * An IoT sensor can represent a functional asset (including fixed or rotating equipment), a component (a pump, motor, etc.), a system of assets (a turbine, jet engine, MRI machine, etc.), or a fleet of assets (a wind farm, a combined cycle unit, an aircraft, etc.). The level of representation is determined by the targeted business outcomes, e.g., reducing unplanned downtime of a compressor compared to optimizing power generation output, to preiciting remaining useful life can save millions to billions annually.
 
