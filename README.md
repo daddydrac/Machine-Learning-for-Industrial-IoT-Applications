@@ -1,4 +1,5 @@
-### Machine Learning for Industrial IoT Applications: Predict how long a part will work before performance degrades
+### Machine Learning for Industrial IoT Applications
+## Predict how long a part will work before performance degrades
 
 Perect for 5G cell phone towers, mining, aerospace, large/heavy equipment, farming, autonomous vehicles and even data centers.
 
