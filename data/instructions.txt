@@ -1,0 +1,5 @@
+    The data is from the NASA Turbofan Engine Degradation Simulation Data Set
+    and is available at: https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan
+
+    To run the notebooks, place the following files in this 'data' folder:
+    `train_FD004.txt`, `test_FD004.txt`, `RUL_FD004.txt`
