@@ -1,7 +1,7 @@
 ## Machine Learning for Industrial IoT Applications
 ### Predict how long a part will work before performance degrades or stops
 
-<p>Many industrial applications include, but not limited to:<p>
+<p>Many industrial applications include, but not limited to:</p>
 * 5G cell phone towers
 * semi-conductor companies
 * manufacturing
