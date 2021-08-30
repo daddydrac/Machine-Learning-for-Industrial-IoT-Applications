@@ -89,12 +89,5 @@ This is a rapid way to predict the Remaining Useful Life (RUL) of an engine usin
     *The `utils.py` script contains a number of useful helper functions.*
 
 
-#### Need consulting to understanding how to to digitize industrial assets for better business outcomes?
-
-If ML/AI for your Industrial IoT Applications is important to you or your business, please [get in touch](https://www.linkedin.com/in/computer-vision-engineer/).
-
-### Contact
-
-Email: joehoeller@gmail.com
 
 
